@@ -8,10 +8,10 @@
 </table>
 
 
-![崩三卡](https://hoyocard.qhy04.com/hi3/detail/rand/278909046.png)
+![崩坏3数据卡](https://hoyocard.qhy04.com/hi3/rand/278909046.png)
 
-![原神卡](https://hoyocard.qhy04.com/gs/detail/rand/278909046.png)
+![原神数据卡](https://hoyocard.qhy04.com/gs/rand/278909046.png)
 
-![崩铁卡](https://hoyocard.qhy04.com/sr/detail/rand/278909046.png)
+![崩坏星穹铁道数据卡](https://hoyocard.qhy04.com/sr/rand/278909046.png)
 
-![绝区零卡](https://hoyocard.qhy04.com/zzz/detail/rand/278909046.png)
+![绝区零数据卡](https://hoyocard.qhy04.com/zzz/rand/278909046.png)
